@@ -4,10 +4,15 @@
 </div>
 
 <p align="center"> <img src="https://img.shields.io/badge/OS-xholOS-blue?style=for-the-badge" alt="xholOS" /> </p> <h2 align="center">🐧 Windows 11 | 🦊 Firefox | ✏️ Geany / VSCode</h2> <p align="center"> <i> Custom ISO, made by me (<b>xholOS</b>), because stock Windows 11 isn’t enough. <br>Fast | Privacy-focused | Smooth | Debloated </i> </p> <p align="center"> <strong>Languages I Speak:</strong> 🇩🇪 German | 🇺🇸 English | 🇷🇺 Russian </p>
-# My projects are mainly written in:
-C, C++, Python, Rust
 
-<p align="center"> <i> 44 </i> </p>
+<p align="center">
+  <b>My projects are mainly written in:</b><br>
+  C, C++, Python, Rust
+</p>
+
+<p align="center">
+  <i>44</i>
+</p>
 <!-- https://www.compart.com/en/unicode/U+2003 -->
 
 ```
@@ -28,6 +33,6 @@ C, C++, Python, Rust
 
 ```
 
-| 📁 Little about me |<!-- x -->
-I started coding at the age of 10, and now, at 18, it's still my passion. I work on projects for fun and have developed cheats as well. One of my notable projects is a client I originally created in 2017.
-which I continue to improve. It currently serves over 85,000 customers and supports several popular games. The client is not only secure and fast, but it also includes AI features that make it incredibly hard to detect, as it mimics human behavior with precision.
+| 📁 **A Little About Me** |
+| --- |
+| I started coding at the age of 10, and now, at 18, it remains my passion. I work on projects for fun, including developing cheats. One of my notable projects is a client I originally created in 2017 and continue to improve. It currently serves over 85,000 customers and supports several popular games. The client is not only secure and fast but also features advanced AI that makes it incredibly difficult to detect by mimicking human behavior with precision. |
