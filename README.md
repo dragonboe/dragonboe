@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/564x/f6/bc/e0/f6bce0108e7fd82e597e576d424ae11e.jpg" alt="Life is worth living, not the stuff we are going through is." />
 </div>
 
-<p align="center"> <img src="https://img.shields.io/badge/OS-xholOS-blue?style=for-the-badge" alt="xholOS" /> </p> <h2 align="center">🐧 Windows 11 | 🦊 Firefox | ✏️ Geany / VSCode</h2> <p align="center"> <i> Custom ISO, made by me (<b>xholOS</b>), because stock Windows 11 isn’t enough. <br>Fast | Privacy-focused | Smooth | Debloated </i> </p> <p align="center"> <strong>Languages I Speak:</strong> 🇩🇪 German | 🇺🇸 English | 🇷🇺 Russian </p>
+<p align="center"> <img src="https://img.shields.io/badge/OS-xholOS-blue?style=for-the-badge" alt="xholOS by Marla Wazker" /> </p> <h2 align="center">🐧 Windows 11 | 🦊 Firefox | ✏️ Geany / VSCode</h2> <p align="center"> <i> Custom ISO, made by me (<b>xholOS</b>), because stock Windows 11 isn’t enough. <br>Fast | Privacy-focused | Smooth | Debloated </i> </p> <p align="center"> <strong>Languages I Speak:</strong> 🇩🇪 German | 🇺🇸 English | 🇷🇺 Russian </p>
 
 <p align="center">
   <b>My projects are mainly written in:</b><br>
