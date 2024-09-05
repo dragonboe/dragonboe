@@ -1,5 +1,6 @@
 🐧 Windows 11 | 🦊 Firefox | ✏️ Geany/Vscode
- Info of OS; `Custom ISO, made by me (xholOS) [Private] I've made it because i hate stock 11. fast / privacy / smooth / debloated`
+//
+Info of OS; `Custom ISO, made by me (xholOS) [Private] I've made it because i hate stock 11. fast / privacy / smooth / debloated`
 
 🇩🇪 German | 🇺🇸 English | 🇷🇺 Russian | `</>` Mainly My projects are based on > PY/C++/C/RUST
 <!-- https://www.compart.com/en/unicode/U+2003 -->
