@@ -1,17 +1,13 @@
-<pre>
-                                                      Welcome to my github.
-</pre>
-
 <div align="center">
+  <h1>Welcome to my GitHub.</h1>
   <img src="https://i.pinimg.com/564x/f6/bc/e0/f6bce0108e7fd82e597e576d424ae11e.jpg" alt="Life is worth living, not the stuff we are going through is." />
 </div>
 
+<p align="center"> <img src="https://img.shields.io/badge/OS-xholOS-blue?style=for-the-badge" alt="xholOS" /> </p> <h2 align="center">🐧 Windows 11 | 🦊 Firefox | ✏️ Geany / VSCode</h2> <p align="center"> <i> Custom ISO, made by me (<b>xholOS</b>), because stock Windows 11 isn’t enough. <br>Fast | Privacy-focused | Smooth | Debloated </i> </p> <p align="center"> <strong>Languages I Speak:</strong> 🇩🇪 German | 🇺🇸 English | 🇷🇺 Russian </p>
+# My projects are mainly written in:
+C, C++, Python, Rust
 
-🐧 Windows 11 | 🦊 Firefox | ✏️ Geany/Vscode
-//
-Info of OS; `Custom ISO, made by me (xholOS) [Private] I've made it because i hate stock 11. fast / privacy / smooth / debloated`
-
-🇩🇪 German | 🇺🇸 English | 🇷🇺 Russian | `</>` Mainly My projects are based on > PY/C++/C/RUST
+<p align="center"> <i> 44 </i> </p>
 <!-- https://www.compart.com/en/unicode/U+2003 -->
 
 ```
