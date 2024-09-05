@@ -3,7 +3,29 @@
   <img src="https://i.pinimg.com/564x/f6/bc/e0/f6bce0108e7fd82e597e576d424ae11e.jpg" alt="Life is worth living, not the stuff we are going through is." />
 </div>
 
-<p align="center"> <img src="https://img.shields.io/badge/xholOS.WIN11-Private-blue?style=for-the-badge" alt="xholOS.WIN11 (Private)" /> </p> <h2 align="center">🐧 Windows 11 | 🦊 Firefox | ✏️ Geany / VSCode</h2> <p align="center"> <i> Custom ISO, made by me (<b>xholOS</b>), because stock Windows 11 isn’t enough. <br>Fast | Privacy-focused | Smooth | Debloated </i> </p> <p align="center"> <strong>Languages I Speak:</strong> 🇩🇪 German | 🇺🇸 English | 🇷🇺 Russian </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/xholOS.WIN11-Private-blue?style=for-the-badge" alt="xholOS.WIN11 (Private)" />
+</p>
+
+<h2 align="center">
+  🐧 Windows 11 | 
+  <img src="https://img.shields.io/badge/Firefox-%E2%9C%94-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Firefox" /> | 
+  <img src="https://img.shields.io/badge/Geany-%E2%9C%94-red?style=for-the-badge&logo=geany&logoColor=white" alt="Geany" /> / 
+  <img src="https://img.shields.io/badge/VSCode-%E2%9C%94-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+</h2>
+
+<p align="center">
+  <i> Custom ISO, made by me (<b>xholOS</b>), because stock Windows 11 isn’t enough. <br>
+  Fast | Privacy-focused | Smooth | Debloated </i>
+</p>
+
+<p align="center">
+  <strong>Languages I Speak:</strong> 
+  <img src="https://img.shields.io/badge/German-%E2%9C%94-black?style=for-the-badge&logo=language&logoColor=white" alt="German" /> | 
+  <img src="https://img.shields.io/badge/English-%E2%9C%94-black?style=for-the-badge&logo=language&logoColor=white" alt="English" /> | 
+  <img src="https://img.shields.io/badge/Russian-%E2%9C%94-black?style=for-the-badge&logo=language&logoColor=white" alt="Russian" />
+</p>
+
 
 <p align="center">
   <b>My projects are mainly written in:</b><br>
