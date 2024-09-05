@@ -1,3 +1,7 @@
+![Life is worth living, not the stuff we are going through is.](https://i.pinimg.com/564x/f6/bc/e0/f6bce0108e7fd82e597e576d424ae11e.jpg)
+
+## Welcome to my github.
+
 🐧 Windows 11 | 🦊 Firefox | ✏️ Geany/Vscode
 //
 Info of OS; `Custom ISO, made by me (xholOS) [Private] I've made it because i hate stock 11. fast / privacy / smooth / debloated`
