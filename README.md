@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/564x/f6/bc/e0/f6bce0108e7fd82e597e576d424ae11e.jpg" alt="Life is worth living, not the stuff we are going through is." />
 </div>
 
-<p align="center"> <img src="https://img.shields.io/badge/xholOS.WIN11-Private-blue?style=for-the-badge" alt="xholOS.WIN11 (Private)" /> </p> <h2 align="center">🐧 Windows 11 | 🦊 Firefox | ✏️ Geany / VSCode</h2> <p align="center"> <i> Custom ISO, made by me (<b>xholOS</b>), because stock Windows 11 isn’t enough. <br>Fast | Privacy-focused | Smooth | Debloated </i> </p> <p align="center"> <strong>Languages I Speak:</strong> 🇩🇪 German | 🇺🇸 English | 🇷🇺 Russian </p>
+<p align="center"> </p> <h2 align="center">🐧 Custom Windows 10 | 🦊 Custom Firefox | ✏️ Geany / Kate</h2> <p align="center"> <i> </p> <p align="center"> <strong>Languages I Speak:</strong> 🇺🇸 English | 🇷🇺 Russian </p>
 
 <p align="center">
   <b>My projects are mainly written in:</b><br>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <i> 44 </i>
+  <i> 44 everywhere </i>
 </p>
 <!-- https://www.compart.com/en/unicode/U+2003 -->
 
