@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/564x/f6/bc/e0/f6bce0108e7fd82e597e576d424ae11e.jpg" alt="Life is worth living, not the stuff we are going through is." />
 </div>
 
-<p align="center"> </p> <h2 align="center">🐧 Custom Windows 10 | 🦊 Custom Firefox | ✏️ Geany / Kate</h2> <p align="center"> <i> </p> <p align="center"> <strong>Languages I Speak:</strong> 🇺🇸 English | 🇷🇺 Russian </p>
+<p align="center"> </p> <h2 align="center">🐧 Custom Windows 11 | 🦊 Custom Firefox | ✏️ Geany / Kate</h2> <p align="center"> <i> </p> <p align="center"> <strong>Languages I Speak:</strong> 🇺🇸 English | 🇷🇺 Russian </p>
 
 <p align="center">
   <b>My projects are mainly written in:</b><br>
