@@ -34,7 +34,3 @@
 ⠁⠀⡀⠀⠀⠋⣸⢹⡃⠀4⠀⢼⣿⠀ 4⠀⠈⠀⠉⠈⠏⣓⠆⠀⢀⣠⣤⣴⠏
 ⠩⠿⠶⠺⠉⠉⠉⠉⠉⠉⠉⠉⢙⣿⠛⠊⠓⠉⠓⠋⠉⠉⠉⠉⠉⠉⠀⠀⢠
 ```
-
-| 📁 **A Little About Me** |
-| --- |
-| I started coding at the age of 10, and now, at 18, it remains my passion. I work on projects for fun, including developing cheats. One of my notable projects is a client I originally created in 2017 and continue to improve. It currently serves over 85,000 customers and supports several popular games. The client is not only secure and fast but also features advanced AI that makes it incredibly difficult to detect by mimicking human behavior with precision. |
