@@ -18,12 +18,11 @@
 **Key Programming Languages**
 -----------------------------
 <p align="center">
-  <b>My projects primarily feature:</b><br>
+  <b>Public projects are made with Py, C, C++, or different. for my private projects I use my own coding language.</b><br>
   <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <br>
-  <i>Occasionally, I explore other languages for public projects, alongside my experimental language, <code>repeat</code>.</i>
 </p>
 
 <p align="center">
