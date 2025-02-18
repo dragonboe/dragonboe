@@ -7,8 +7,8 @@
 <img src="https://i.pinimg.com/originals/47/6b/6c/476b6cad083d66ff7c9ef2bff1d892a8.gif" alt="ODIN AI Vision" width="400" style="border-radius: 10px;"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dragonboe&style=for-the-badge&color=blueviolet)](#)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WJUheEQtuS)
+[![bsky](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://bsky.app/profile/hxch.bsky.social)
 
 </div>
 
