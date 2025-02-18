@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 MARLA
+# 🌌 M A R L A
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B5CF7&random=false&width=435&lines=Transforming+Ideas+into+Reality;Innovation+Through+Intelligence;The+Future+of+AI+Development)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 </div>
 
-## 🌟 About
+## 🌟 About Me
 
 Fueled by innovation since my coding journey began at age 8, I've developed a diverse portfolio spanning applications, websites, and cutting-edge web3 solutions. From advanced security tools to groundbreaking applications, ODIN AI stands as my crowning achievement—pushing the boundaries of what's possible in artificial intelligence.
 
@@ -20,7 +20,7 @@ Fueled by innovation since my coding journey began at age 8, I've developed a di
 
 ```yaml
 OS        : Windows 11 Professional
-Browser   : Firefox (Custom Forks)
+Browser   : Firefox (Custom Fork)
 IDE       : My Own Proprietary Development Environment
 ```
 
@@ -30,7 +30,7 @@ IDE       : My Own Proprietary Development Environment
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,tensorflow,docker&theme=dark)](https://skillicons.dev)
 
-*Leveraging custom programming languages for specialized solutions*
+*Leveraging my custom programming language for specialized solutions*
 
 </div>
 
@@ -51,7 +51,7 @@ IDE       : My Own Proprietary Development Environment
 pie title "Communication Skills"
     "English" : 100
     "Turkish" : 50
-    "Russian" : 1
+    "Russian" : 7
 ```
 
 ## 🎯 Focus Areas
@@ -78,12 +78,12 @@ pie title "Communication Skills"
 ⠀⠀⠀⠀⠀⠀⠻⢭⣥⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⣠⡟⠿⠛⠛⠛⠉⠁⠉⠉⠙⢟⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⡟⣿⣧⣤⣼⢄⣼⣿⣠⣀⣄⣤⢺⣣⣦⠟⠛⠛⠛⢻⣄⣄⣀⠤⣀⣄⣠⡔⢳
-⠁⠀⡀⠀⠀⠋⣸⢹⡃⠀4⠀⢼⣿⠀ 4⠀⠀⠈⠀⠉⠈⠏⣓⠆⠀⢀⣠⣤⣴⠏
+⠁⠀⡀⠀⠀⠋⣸⢹⡃⠀  4⠀⢼⣿⠀ 4⠀⠈ ⠉⠈ ⠏⣓⢀⣠⣤⣴⠏
 ⠩⠿⠶⠺⠉⠉⠉⠉⠉⠉⠉⠉⢙⣿⠛⠊⠓⠉⠓⠋⠉⠉⠉⠉⠉⠉⠀⠀⢠
 ```
 
 ---
 
-<i>Note: Direct collaboration requests are not accepted at this time.</i>
+<i>Note: Direct collaboration requests are not accepted.</i>
 
 </div>
