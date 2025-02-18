@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌌 ODIN AI
+# 🌌 MARLA
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B5CF7&random=false&width=435&lines=Transforming+Ideas+into+Reality;Innovation+Through+Intelligence;The+Future+of+AI+Development)](https://git.io/typing-svg)
 
-<img src="https://i.pinimg.com/564x/f6/bc/e0/f6bce0108e7fd82e597e576d424ae11e.jpg" alt="ODIN AI Vision" width="400" style="border-radius: 10px;"/>
+<img src="https://i.pinimg.com/originals/47/6b/6c/476b6cad083d66ff7c9ef2bff1d892a8.gif" alt="ODIN AI Vision" width="400" style="border-radius: 10px;"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dragonboe&style=for-the-badge&color=blueviolet)](#)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
