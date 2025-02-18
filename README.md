@@ -1,36 +1,49 @@
-![](https://komarev.com/ghpvc/?username=dragonboe)
+![Profile Views](https://komarev.com/ghpvc/?username=dragonboe)
 
 <div align="center">
-  <h1>Welcome to my GitHub Profile</h1>
-  <img src="https://i.pinimg.com/564x/f6/bc/e0/f6bce0108e7fd82e597e576d424ae11e.jpg" alt="Life is worth living, not just the stuff we're going through." width="400" />
+  <h1>Welcome To the future 🚀</h1>
+  <img src="https://i.pinimg.com/564x/f6/bc/e0/f6bce0108e7fd82e597e576d424ae11e.jpg" alt="Life is worth living" width="400" />
   <br>
-  <strong>Empowering Innovation, One Line of Code at a Time.</strong>
+  <strong>Transforming Ideas into Reality</strong>
 </div>
 
-**About Me**
--------------
-* **Using:** Windows 11 | Firefox
-* **Knowledge:** Linux, Security (White/Black/Gray Hat), Scripting, Networking, Malware Dev/Analysis, CVE, CTF, Game Security (Cheats & Anti-Cheats) & related disciplines. And more to learn about me... but i wont put everything here.
-* **Languages I know:**
-	+ **English**
-	+ **Russian**
+## 💫 About Me
 
-**Key Programming Languages**
------------------------------
+Fueled by a passion for innovation and a coding journey that started at age 8, I've crafted a diverse array of applications, websites, and cutting-edge web3 solutions. From creating cheats and bots to developing groundbreaking apps and beyond, my proudest achievement remains ODIN AI—a testament to my relentless pursuit of pushing technological boundaries.
+
+### 🛠️ Tech Stack & Environment
+- **Operating System:** Windows 11
+- **Browser:** Firefox Forked browsers
+- **Development Environment:** Windows 11 Professional
+
+### 🔧 Technical Expertise
+- Security (White/Black/Gray Hat)
+- Advanced Scripting
+- Network Architecture & Security
+- Malware Development & Analysis
+- CVE Research
+- Capture The Flag (CTF) Competitions
+- Game Security (Cheats & Anti-Cheats)
+- Custom Programming Language Development
+
+### 🌐 Languages
+- English 100%
+- Turkish 50%
+- Russian 1%
+
+## 💻 Programming Arsenal
+
 <p align="center">
-  <b>Public projects are made with Py, C, C++, or different. for my private projects I use my own coding language.</b><br>
+  <b>While my public projects showcase Python, C, and C++, my private ventures leverage my custom programming language for specialized solutions.</b>
+  <br><br>
   <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <br>
 </p>
 
 <p align="center">
-  <i> 44 everywhere </i>
+  <i>44 everywhere ;)</i>
 </p>
-<!-- https://www.compart.com/en/unicode/U+2003 -->
-
-```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⣶⠿⠿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -43,6 +56,5 @@
 ⠀⠀⠀⠀⠀⠀⠻⢭⣥⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⣠⡟⠿⠛⠛⠛⠉⠁⠉⠉⠙⢟⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⡟⣿⣧⣤⣼⢄⣼⣿⣠⣀⣄⣤⢺⣣⣦⠟⠛⠛⠛⢻⣄⣄⣀⠤⣀⣄⣠⡔⢳
-⠁⠀⡀⠀⠀⠋⣸⢹⡃⠀4⠀⢼⣿⠀ 4⠀⠈⠀⠉⠈⠏⣓⠆⠀⢀⣠⣤⣴⠏
+⠁⠀⡀⠀⠀⠋⣸⢹⡃⠀4⠀⢼⣿⠀ 4⠀⠀⠈⠀⠉⠈⠏⣓⠆⠀⢀⣠⣤⣴⠏
 ⠩⠿⠶⠺⠉⠉⠉⠉⠉⠉⠉⠉⢙⣿⠛⠊⠓⠉⠓⠋⠉⠉⠉⠉⠉⠉⠀⠀⢠
-```
