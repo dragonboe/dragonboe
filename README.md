@@ -20,7 +20,7 @@ Fueled by a passion for innovation and a coding journey that started at age 8, I
 ```yaml
 OS: Windows 11 Professional
 Browser: Firefox Forked browsers
-IDE: Visual Studio Code
+IDE: My Own IDE
 ```
 
 ## 🔧 Technical Expertise
