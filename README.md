@@ -43,9 +43,9 @@ IDE: Visual Studio Code
 ```mermaid
 pie
     title "Language Proficiency"
-    "English" : 100%
-    "Turkish" : 50%
-    "Russian" : 1%
+    "English" : 100
+    "Turkish" : 50
+    "Russian" : 1
 ```
 
 ## 💻 Programming Arsenal
