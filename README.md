@@ -4,8 +4,6 @@
 
 ### <span style="color: #C0C0C0;">Architecting the Future: Advanced Systems & AI Innovation</span>
 
-<img src="https://raw.githubusercontent.com/dragonboe/dragonboe/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake Animation">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=6B5CF7&center=true&vCenter=true&random=false&width=550&lines=Systems+Architecture+%26+Security;Advanced+AI+Development;Custom+Language+Engineering;Quantum+Computing+Research;Low-Level+Systems+Engineering)](https://git.io/typing-svg)
 
 <br>
@@ -124,19 +122,6 @@ With over a decade of expertise in system architecture and AI development, I cra
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonboe&theme=aura&border=6B5CF7&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
-## <span style="color: #6B5CF7;">🌟Contact me</span>
-
-<div align="center">
-  <p>
-    <i>"Engineering excellence through innovation, security by design."</i>
-  </p>
-  <br>
-  [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">](https://discord.gg/WJUheEQtuS)
-  [<img src="https://img.shields.io/badge/Bluesky-%2300acee.svg?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">](https://bsky.app/profile/hxch.bsky.social)
 </div>
 
 ---
