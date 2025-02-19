@@ -62,7 +62,7 @@ With over a decade of expertise in system architecture and AI development, I cra
           </p>
           <ul>
             <li>Advanced detection avoidance systems</li>
-            <li>Multi-platform compatibility (Windows, Linux, macOS)</li>
+            <li>Multi-platform compatibility (Windows, macOS)</li>
             <li>Real-time performance optimization</li>
             <li>Customizable user interface and settings</li>
           </ul>
@@ -109,7 +109,3 @@ With over a decade of expertise in system architecture and AI development, I cra
     </tr>
   </table>
 </div>
-
----
-
-### <span style="color: #C0C0C0;">Built with ❤️ By dragonboe</span>
