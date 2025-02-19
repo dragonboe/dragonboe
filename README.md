@@ -20,35 +20,11 @@ With over a decade of expertise in system architecture and AI development, I cra
 
 ---
 
-## 🛠️ Technical Expertise
-
-```rust
-struct Engineer {
-    primary_stack: Vec<&'static str>,
-    specializations: HashMap<&'static str, Vec<&'static str>>,
-    current_focus: &'static str,
-}
-
-impl Engineer {
-    fn new() -> Self {
-        Engineer {
-            primary_stack: vec!["C++", "Rust", "Python", "Custom DSL"],
-            specializations: HashMap::from([
-                ("AI/ML", vec!["TensorFlow", "Custom Neural Architectures", "Advanced ML Systems"]),
-                ("Security", vec!["Vulnerability Research", "System Hardening", "Zero-Day Discovery"]),
-                ("Systems", vec!["Custom Language Development", "Low-Level Architecture", "Performance Optimization"]),
-            ]),
-            current_focus: "Advanced AI Systems & Security",
-        }
-    }
-}
-```
-
 ---
 
 ## 🎯 Core Projects
 
-### MARLA AI
+### ODIN AI
 Next-gen AI platform with integrated security and intelligent automation
 - Custom neural architectures
 - Real-time threat detection
