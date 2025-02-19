@@ -52,9 +52,6 @@ With over a decade of expertise in system architecture and AI development, I cra
             <li>Cutting-edge neural network implementation</li>
             <li>Optimized for distributed computing environments</li>
           </ul>
-          <p align="center">
-            <a href="https://github.com/dragonboe/odin-ai"><img src="https://img.shields.io/badge/View%20Project-6B5CF7?style=for-the-badge&logo=github" alt="View ODIN AI"></a>
-          </p>
         </details>
       </td>
       <td width="50%" valign="top">
@@ -69,9 +66,6 @@ With over a decade of expertise in system architecture and AI development, I cra
             <li>Real-time performance optimization</li>
             <li>Customizable user interface and settings</li>
           </ul>
-          <p align="center">
-            <a href="https://github.com/dragonboe/syrup"><img src="https://img.shields.io/badge/View%20Project-6B5CF7?style=for-the-badge&logo=github" alt="View SYRUP"></a>
-          </p>
         </details>
       </td>
     </tr>
