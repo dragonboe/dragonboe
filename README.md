@@ -118,12 +118,4 @@ With over a decade of expertise in system architecture and AI development, I cra
 
 ---
 
-## <span style="color: #6B5CF7;">📊 GitHub Activity</span>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonboe&theme=aura&border=6B5CF7&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
 ### <span style="color: #C0C0C0;">Built with ❤️ By dragonboe</span>
