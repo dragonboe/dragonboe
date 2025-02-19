@@ -50,7 +50,6 @@ IDE       : My Own Proprietary Development Environment
 ```mermaid
 pie title "Communication Skills"
     "English" : 100
-    "Turkish" : 50
     "Russian" : 7
 ```
 
