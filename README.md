@@ -128,15 +128,7 @@ With over a decade of expertise in system architecture and AI development, I cra
 
 ---
 
-## <span style="color: #6B5CF7;">📚 Recent Blog Posts</span>
-
-- [Optimizing Neural Networks for Distributed Computing](https://example.com/blog/neural-networks) *(Oct 2023)*
-- [Quantum Computing: The Future of AI Development](https://example.com/blog/quantum-computing) *(Sep 2023)*
-- [Security-First System Architecture: Best Practices](https://example.com/blog/security-architecture) *(Aug 2023)*
-
----
-
-## <span style="color: #6B5CF7;">🌟 Let's Connect</span>
+## <span style="color: #6B5CF7;">🌟Contact me</span>
 
 <div align="center">
   <p>
@@ -145,7 +137,6 @@ With over a decade of expertise in system architecture and AI development, I cra
   <br>
   [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">](https://discord.gg/WJUheEQtuS)
   [<img src="https://img.shields.io/badge/Bluesky-%2300acee.svg?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">](https://bsky.app/profile/hxch.bsky.social)
-  [<img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:your.email@example.com)
 </div>
 
 ---
