@@ -14,7 +14,7 @@
 </div>
 
 <span style="color: #6B5CF7;">🔮 The Multiverse of Mastery</span>
-I’m Marla—a code-wielding, design-shaping, future-forging entity with a decade of dominion over systems, AI, and aesthetics. I don’t just build; I transcend—turning raw concepts into scalable, secure, and breathtaking realities.
+code-wielding, design-shaping, future-forging entity with a decade of dominion over systems, AI, and aesthetics. I don’t just build; I transcend—turning raw concepts into scalable, secure, and breathtaking realities.
 <span style="color: #C0C0C0;">Realms of Expertise:</span>
 
     Polyglot Programming: Fluent in Python, C, C#, C++, JS, HTML, CSS, and Pug—crafting everything from low-level systems to sleek frontends.
@@ -99,7 +99,7 @@ I’m Marla—a code-wielding, design-shaping, future-forging entity with a deca
       <td width="33%" valign="top" style="padding: 15px;">
         <h3>⚙️ Hardware Nexus</h3>
         <ul style="list-style-type: none;">
-          <li><b>OS:</b> Windows 11 Pro (Locked Vault)</li>
+          <li><b>OS:</b> Windows 11 Professional</li>
           <li><b>CPU:</b> Overclocked Titan Core</li>
           <li><b>GPU:</b> Multi-Array Render Beasts</li>
           <li><b>RAM:</b> Infinite Memory Abyss</li>
@@ -117,8 +117,8 @@ I’m Marla—a code-wielding, design-shaping, future-forging entity with a deca
       <td width="33%" valign="top" style="padding: 15px;">
         <h3>🔒 Security Bastion</h3>
         <ul style="list-style-type: none;">
-          <li><b>Browser:</b> Firefox (Ironclad)</li>
-          <li><b>Network:</b> VPN Shadow Realm</li>
+          <li><b>Browser:</b> Firefox (Custom Fork)</li>
+          <li><b>Network:</b> Custom VPN</li>
           <li><b>Tools:</b> Bespoke Cyber Wards</li>
           <li><b>Monitoring:</b> Omni-Watch Grid</li>
         </ul>
