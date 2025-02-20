@@ -1,70 +1,94 @@
 <div align="center">
 
-# <span style="color: #6B5CF7; font-family: 'JetBrains Mono', monospace;">HELLO. I'M MARLA.</span>
+<span style="color: #6B5CF7; font-family: 'JetBrains Mono', monospace;">HI. I'M MARLA.</span>
+<span style="color: #C0C0C0; font-style: italic;">Crafting Universes from Code, Design, and Cosmic Curiosity</span>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=6B5CF7&center=true&vCenter=true&random=false&width=600&lines=Polyglot+Code+Sorcery;Visual+Alchemy+%26+Design;AI+Architect+%26+Quantum+Pioneer;Explorer+of+Sound+and+Stars)
 
-### <span style="color: #C0C0C0; font-style: italic;">Architecting Tomorrow: Where Systems Meet Sentience</span>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=6B5CF7&center=true&vCenter=true&random=false&width=600&lines=Systems+Architecture+%26+Security;Advanced+AI+Development;Custom+Language+Engineering;Quantum+Computing+Research;Low-Level+Systems+Engineering)](https://git.io/typing-svg)
 
-<br>
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<img src="https://img.shields.io/badge/Bluesky-%2300acee.svg?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
+<img src="https://img.shields.io/github/followers/dragonboe?style=for-the-badge&color=6B5CF7" alt="GitHub Followers">
+<img src="https://komarev.com/ghpvc/?username=dragonboe&style=for-the-badge&color=6B5CF7" alt="Profile Views">
 
-[<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">](https://discord.gg/WJUheEQtuS)
-[<img src="https://img.shields.io/badge/Bluesky-%2300acee.svg?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">](https://bsky.app/profile/hxch.bsky.social)
-[<img src="https://img.shields.io/github/followers/dragonboe?style=for-the-badge&color=6B5CF7" alt="GitHub Followers">](https://github.com/dragonboe)
-[<img src="https://komarev.com/ghpvc/?username=dragonboe&style=for-the-badge&color=6B5CF7" alt="Profile Views">](https://github.com/dragonboe)
 
-<br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dragonboe&show_icons=true&theme=aura&border_color=6B5CF7&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/dragonboe)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonboe&layout=compact&theme=aura&border_color=6B5CF7&hide_border=true&bg_color=0D1117)](https://github.com/dragonboe)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dragonboe&show_icons=true&theme=aura&border_color=6B5CF7&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonboe&layout=compact&theme=aura&border_color=6B5CF7&hide_border=true&bg_color=0D1117)
 </div>
 
----
+<span style="color: #6B5CF7;">🔮 The Multiverse of Mastery</span>
+I’m Marla—a code-wielding, design-shaping, future-forging entity with a decade of dominion over systems, AI, and aesthetics. I don’t just build; I transcend—turning raw concepts into scalable, secure, and breathtaking realities.
+<span style="color: #C0C0C0;">Realms of Expertise:</span>
 
-## <span style="color: #6B5CF7;">🔮 Innovation Unleashed</span>
+    Polyglot Programming: Fluent in Python, C, C#, C++, JS, HTML, CSS, and Pug—crafting everything from low-level systems to sleek frontends.
+    Visual Alchemy: Photoshop mastery, app design, logo creation, and digital art that bends perception.
+    AI & Quantum Frontiers: Architecting intelligent systems and probing quantum mysteries.
+    Systems Sorcery: Secure, scalable frameworks optimized for the infinite.
 
-With over a decade of mastery in system architecture and AI development, I don’t just build solutions—I forge the future. My craft transforms theoretical brilliance into scalable, high-impact realities, blending relentless innovation with enterprise-grade security and performance.
+<span style="color: #6B5CF7;">🛠️ The Arsenal</span>
+<div align="center">
+  <table style="border: 1px solid #6B5CF7; border-radius: 8px; background: #0D1117;">
+    <tr>
+      <td width="33%" valign="top" style="padding: 15px;">
+        <h3>💾 Code Codex</h3>
+        <ul style="list-style-type: none;">
+          <li><b>Python:</b> Data sorcery & AI rituals</li>
+          <li><b>C/C++:</b> Low-level precision strikes</li>
+          <li><b>C#:</b> Unity-forged gaming realms</li>
+          <li><b>JS/HTML/CSS/Pug:</b> Web dimensions unleashed</li>
+        </ul>
+      </td>
+      <td width="33%" valign="top" style="padding: 15px;">
+        <h3>🎨 Design Forge</h3>
+        <ul style="list-style-type: none;">
+          <li><b>Photoshop:</b> Pixel-bending artistry</li>
+          <li><b>App Design:</b> Intuitive UX sculpting</li>
+          <li><b>Logo Design:</b> Iconic brand sigils</li>
+          <li><b>Digital Art:</b> Visual storytelling</li>
+        </ul>
+      </td>
+      <td width="33%" valign="top" style="padding: 15px;">
+        <h3>🌌 Cosmic Pursuits</h3>
+        <ul style="list-style-type: none;">
+          <li><b>Music:</b> Sonic waveshaping</li>
+          <li><b>Plants:</b> Terrestrial ecosystems</li>
+          <li><b>Aquatic Life:</b> Underwater realms</li>
+          <li><b>Space:</b> Stellar exploration</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### <span style="color: #C0C0C0;">Domains of Dominance:</span>
-- **Systems Architecture & Security**: Resilient, scalable frameworks built on a fortress of security-first design.  
-- **Advanced AI Development**: Next-gen models and neural architectures that redefine machine intelligence.  
-- **Custom Language Engineering**: Tailored languages for precision in specialized domains.  
-- **Quantum Computing Research**: Decoding quantum algorithms for real-world breakthroughs.  
-- **Low-Level Systems Engineering**: Hardware-software synergy optimized for peak efficiency.
-
----
-
-## <span style="color: #6B5CF7;">🎯 Pillars of Progress</span>
-
+<span style="color: #6B5CF7;">⚡ Creations of Legend</span>
 <div align="center">
   <table style="border: 1px solid #6B5CF7; border-radius: 8px; background: #0D1117;">
     <tr>
       <td width="50%" valign="top" style="padding: 15px;">
         <details open>
-          <summary><b>🤖 ODIN AI</b> <span style="color: #C0C0C0;">// The Titan Awakens</span></summary>
+          <summary><b>🤖 ODIN AI</b> <span style="color: #C0C0C0;">// The Sentient Titan</span></summary>
           <p>
-            A 1.02-trillion-parameter behemoth, ODIN redefines the limits of natural language processing and machine learning.
+            A 1.02-trillion-parameter colossus, ODIN fuses code and consciousness AI.
           </p>
           <ul>
-            <li>Human-like NLP that bends reality.</li>
-            <li>ML architecture forged in the cutting edge.</li>
-            <li>Neural networks optimized for cosmic-scale computation.</li>
-            <li>Distributed systems mastery for relentless scalability.</li>
+            <li>NLP that echoes human thought.</li>
+            <li>Scalable neural webs of cosmic power.</li>
+            <li>Quantum-ready algorithms.</li>
           </ul>
         </details>
       </td>
       <td width="50%" valign="top" style="padding: 15px;">
         <details open>
-          <summary><b>🎮 SYRUP</b> <span style="color: #C0C0C0;">// Precision in Play</span></summary>
+          <summary><b>🎮 SYRUP</b> <span style="color: #C0C0C0;">// The Gamer’s Grimoire</span></summary>
           <p>
-            A game enhancement suite engineered for supremacy—performance without compromise, stealth without detection.
+            designed with stealth and style.
           </p>
           <ul>
-            <li>Detection avoidance systems that outsmart the grid.</li>
-            <li>Multi-platform prowess (Windows, macOS).</li>
-            <li>Real-time optimization for fluid dominance.</li>
-            <li>Custom UI for the ultimate player’s edge.</li>
+            <li>Multi-Game support.</li>
+            <li>Optimized, fast, simple.</li>
+            <li>Cross-platform dominance.</li>
+            <li>Unique Features for every game.</li>
           </ul>
         </details>
       </td>
@@ -72,51 +96,49 @@ With over a decade of mastery in system architecture and AI development, I don�
   </table>
 </div>
 
----
-
-## <span style="color: #6B5CF7;">💻 The Forge</span>
-
+<span style="color: #6B5CF7;">🔋 The Forge: My Sanctuary</span>
 <div align="center">
   <table style="border: 1px solid #6B5CF7; border-radius: 8px; background: #0D1117;">
     <tr>
       <td width="33%" valign="top" style="padding: 15px;">
-        <h3>⚙️ Infrastructure</h3>
+        <h3>⚙️ Hardware Nexus</h3>
         <ul style="list-style-type: none;">
-          <li><b>OS:</b> Windows 11 Pro (Hardened Fortress)</li>
-          <li><b>CPU:</b> Custom High-Performance Titan</li>
-          <li><b>GPU:</b> Multi-GPU Cluster Array</li>
-          <li><b>RAM:</b> Enterprise-Grade Memory Vault</li>
+          <li><b>OS:</b> Windows 11 Pro (Locked Vault)</li>
+          <li><b>CPU:</b> Overclocked Titan Core</li>
+          <li><b>GPU:</b> Multi-Array Render Beasts</li>
+          <li><b>RAM:</b> Infinite Memory Abyss</li>
         </ul>
       </td>
       <td width="33%" valign="top" style="padding: 15px;">
-        <h3>🛠️ Development</h3>
+        <h3>🖥️ Code Crucible</h3>
         <ul style="list-style-type: none;">
-          <li><b>IDE:</b> Bespoke Coding Sanctum</li>
-          <li><b>Version Control:</b> Git Mastery Unleashed</li>
-          <li><b>CI/CD:</b> Precision Pipeline Nexus</li>
-          <li><b>Testing:</b> Automated QA Legion</li>
+          <li><b>IDE:</b> Custom Code Cathedral</li>
+          <li><b>VC:</b> Git, the Eternal Ledger</li>
+          <li><b>CI/CD:</b> Automated Forge Flow</li>
+          <li><b>Testing:</b> Sentinel QA Swarm</li>
         </ul>
       </td>
       <td width="33%" valign="top" style="padding: 15px;">
-        <h3>🔒 Security</h3>
+        <h3>🔒 Security Bastion</h3>
         <ul style="list-style-type: none;">
-          <li><b>Browser:</b> Firefox (Hardened Bastion)</li>
-          <li><b>Network:</b> Proprietary VPN Citadel</li>
-          <li><b>Tools:</b> Custom Security Arsenal</li>
-          <li><b>Monitoring:</b> Real-Time Sentinel Network</li>
+          <li><b>Browser:</b> Firefox (Ironclad)</li>
+          <li><b>Network:</b> VPN Shadow Realm</li>
+          <li><b>Tools:</b> Bespoke Cyber Wards</li>
+          <li><b>Monitoring:</b> Omni-Watch Grid</li>
         </ul>
       </td>
     </tr>
   </table>
 </div>
 
----
+<span style="color: #6B5CF7;">📡 Echoes in the Void</span>
+I’m a ghost in the machine—rarely responding, always creating. Ping me if you dare:
 
-## <span style="color: #6B5CF7;">🌌 The Vision</span>
+    Discord: @bprb
+     (Leave a message; I might materialize.)
+    Response Rate: Low. My focus is the craft, not the chatter.
 
-I don’t code for today—I architect for eternity. Every system, every model, every innovation is a step toward a world where technology doesn’t just adapt—it ascends. Join me at the edge of possibility.
-
-> *"The future isn’t predicted. It’s built."*  
-> — MARLA, February 20, 2025
-
----
+<span style="color: #6B5CF7;">🌠 The Infinite Directive</span>
+I weave code, art, and imagination into a tapestry of tomorrow. From the depths of C to the expanse of space, I’m here to architect eternity—one pixel, one note, one quantum leap at a time.
+"Creation is my rebellion against the void."
+— MARLA, February 20, 2025
