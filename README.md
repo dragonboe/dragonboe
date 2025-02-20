@@ -6,9 +6,7 @@
 
 
 
-<img src="https://img.shields.io/github/followers/dragonboe?style=for-the-badge&color=6B5CF7" alt="GitHub Followers">
-<img src="https://komarev.com/ghpvc/?username=dragonboe&style=for-the-badge&color=6B5CF7" alt="Profile Views">
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=dragonboe&left_color=000000&right_color=6B5CF7&left_text=CosmicViews" alt="Cosmic Views">
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dragonboe&show_icons=true&theme=aura&border_color=6B5CF7&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true&count_private=true)
