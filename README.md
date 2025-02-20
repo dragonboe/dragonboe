@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/yourusername.png" alt="Your Profile Picture" width="150" height="150" style="border-radius: 50%;">
   <h1>👋 Hello, I'm Marla!</h1>
   <p>🌟 Architecting Solutions through Code, Design, and Innovation 🌟</p>
   <img src="https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg" alt="Profile Views">
