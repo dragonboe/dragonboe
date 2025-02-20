@@ -2,10 +2,7 @@
 
 <span style="color: #6B5CF7; font-family: 'JetBrains Mono', monospace;">Greetings. I’m Marla.</span>
 <span style="color: #C0C0C0; font-style: italic;">Architecting Solutions through Code, Design, and Forward-Thinking Innovation</span>
-Typing SVG
 ![Qythereal profile views](https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg)  
-GitHub Stats
-Top Languages  
 </div>
 
 <span style="color: #6B5CF7;">🔍 A Portfolio of Proficiency</span>
