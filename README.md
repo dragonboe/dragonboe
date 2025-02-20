@@ -124,7 +124,7 @@ I maintain a focused presence, prioritizing project development over frequent co
 
     Discord: @bprb
 
-    (Please leave a detailed message; responses may be selective.)  
+    (Leave a detailed message; responses may be selective.)  
     Availability: Limited. My primary commitment is to advancing my work.
 
 <span style="color: #6B5CF7;">🌟 Mission Statement</span>
