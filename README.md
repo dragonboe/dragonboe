@@ -6,8 +6,6 @@
 
 
 
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-<img src="https://img.shields.io/badge/Bluesky-%2300acee.svg?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
 <img src="https://img.shields.io/github/followers/dragonboe?style=for-the-badge&color=6B5CF7" alt="GitHub Followers">
 <img src="https://komarev.com/ghpvc/?username=dragonboe&style=for-the-badge&color=6B5CF7" alt="Profile Views">
 
