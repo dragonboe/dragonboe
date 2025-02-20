@@ -6,7 +6,7 @@
 
 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=dragonboe&left_color=000000&right_color=6B5CF7&left_text=CosmicViews" alt="Cosmic Views">
+[![Qythereal profile views](https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg)](https://u8views.com/github/dragonboe)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dragonboe&show_icons=true&theme=aura&border_color=6B5CF7&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true&count_private=true)
