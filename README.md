@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color: #6B5CF7; font-family: 'JetBrains Mono', monospace;">MARLA</span>
+# <span style="color: #6B5CF7; font-family: 'JetBrains Mono', monospace;">HELLO. I'M MARLA.</span>
 
 ### <span style="color: #C0C0C0; font-style: italic;">Architecting Tomorrow: Where Systems Meet Sentience</span>
 
