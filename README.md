@@ -12,26 +12,58 @@
 <div align="center">
   <h2>🛠️ Technical Skills</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" alt="Pug">
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white" alt="Pug">
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
   </div>
 </div>
 
 <div align="center">
   <h2>🎨 Design Expertise</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
-    <img src="https://img.shields.io/badge/UI/UX%20Design-FF4081?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="UI/UX Design">
-    <img src="https://img.shields.io/badge/Logo%20Design-FFD700?style=for-the-badge&logo=canva&logoColor=white" alt="Logo Design">
-    <img src="https://img.shields.io/badge/Digital%20Art-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="Digital Art">
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
+    <img src="https://img.shields.io/badge/UI/UX%20Design-FF4081?style=flat-square&logo=adobe-xd&logoColor=white" alt="UI/UX Design">
+    <img src="https://img.shields.io/badge/Logo%20Design-FFD700?style=flat-square&logo=canva&logoColor=white" alt="Logo Design">
+    <img src="https://img.shields.io/badge/Digital%20Art-000000?style=flat-square&logo=artstation&logoColor=white" alt="Digital Art">
+  </div>
+</div>
+
+<div align="center">
+  <h2>🏆 Certifications - FULL SCORE</h2>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Gray%20Hat-FULL%20SCORE-red?style=flat-square" alt="Gray Hat">
+    <img src="https://img.shields.io/badge/Black%20Hat-FULL%20SCORE-black?style=flat-square" alt="Black Hat">
+    <img src="https://img.shields.io/badge/Cybersecurity-FULL%20SCORE-blue?style=flat-square" alt="Cybersecurity">
+    <img src="https://img.shields.io/badge/Capture%20the%20Flag%20CTF-FULL%20SCORE-green?style=flat-square" alt="Capture the Flag CTF">
+    <img src="https://img.shields.io/badge/Expertise%20Coding-FULL%20SCORE-orange?style=flat-square" alt="Expertise Coding">
+    <img src="https://img.shields.io/badge/Expertise%20Debugging-FULL%20SCORE-purple?style=flat-square" alt="Expertise Debugging">
+    <img src="https://img.shields.io/badge/Expertise%20Solution%20Finding-FULL%20SCORE-yellow?style=flat-square" alt="Expertise Solution Finding">
+    <img src="https://img.shields.io/badge/Customer%20Handling-FULL%20SCORE-pink?style=flat-square" alt="Customer Handling">
+    <img src="https://img.shields.io/badge/Networking-FULL%20SCORE-lightblue?style=flat-square" alt="Networking">
+    <img src="https://img.shields.io/badge/Health%20and%20Care-FULL%20SCORE-lightgreen?style=flat-square" alt="Health and Care">
+    <img src="https://img.shields.io/badge/Therapy-FULL%20SCORE-lightcoral?style=flat-square" alt="Therapy">
+    <img src="https://img.shields.io/badge/Expertise%20Math-FULL%20SCORE-lightgray?style=flat-square" alt="Expertise Math">
+    <img src="https://img.shields.io/badge/Quantum%20Computing-FULL%20SCORE-darkblue?style=flat-square" alt="Quantum Computing">
+    <img src="https://img.shields.io/badge/Quantum%20Physics-FULL%20SCORE-darkgreen?style=flat-square" alt="Quantum Physics">
+    <img src="https://img.shields.io/badge/Lab-FULL%20SCORE-darkred?style=flat-square" alt="Lab">
+  </div>
+</div>
+
+<div align="center">
+  <h2>🔧 Skills - FULL SCORE</h2>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/LLM%20Development-FULL%20SCORE-blue?style=flat-square" alt="LLM Development">
+    <img src="https://img.shields.io/badge/Custom%20AI%20Models-FULL%20SCORE-green?style=flat-square" alt="Custom AI Models">
+    <img src="https://img.shields.io/badge/System%20Administration-FULL%20SCORE-red?style=flat-square" alt="System Administration">
+    <img src="https://img.shields.io/badge/API%20Development-FULL%20SCORE-purple?style=flat-square" alt="API Development">
+    <img src="https://img.shields.io/badge/High%20&%20Low%20Level%20Coding-FULL%20SCORE-orange?style=flat-square" alt="High & Low Level Coding">
   </div>
 </div>
 
