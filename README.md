@@ -6,7 +6,27 @@
 
 <div align="center">
   <h2>🔍 About Me</h2>
-  <p>A seasoned professional with over a decade of expertise in software development, systems architecture, artificial intelligence, and design. My work transforms concepts into robust, scalable, and visually compelling solutions engineered to endure.</p>
+  <p>
+    I'm a seasoned software architect and developer with over a decade of experience crafting robust, scalable, and visually compelling solutions. My expertise spans a wide range of domains, from core software development and systems architecture to the cutting-edge fields of artificial intelligence and user-centric design.  I thrive on transforming abstract concepts into tangible, high-performing products that not only meet but exceed expectations.
+  </p>
+
+  <p>
+    My passion lies in building systems that are both technically sound and aesthetically pleasing. I believe that elegant code and intuitive design are essential for creating truly impactful solutions. Whether it's architecting complex distributed systems, developing intelligent AI-driven applications, or designing engaging user interfaces, I approach every project with a commitment to excellence and a focus on delivering lasting value.
+  </p>
+
+  <p>
+   I'm also a strong advocate for continuous learning and exploration. The tech landscape is constantly evolving, and I'm dedicated to staying at the forefront of innovation.  I actively engage in research, experimentation, and community involvement to expand my knowledge and contribute to the advancement of the field.
+  </p>
+  <p>
+    Beyond technical skills, I value collaboration and communication.  I believe that effective teamwork and clear communication are crucial for successful project outcomes. I'm always eager to collaborate with other talented individuals and share my knowledge and insights.
+  </p>
+
+  <p>
+    When I'm not immersed in code, you can find me exploring new technologies, or simply enjoying the beauty of nature.
+  </p>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://cdn.discordapp.com/attachments/1287942043997306983/1342500815583055915/WiVxwwnEbewZ.jpg?ex=67b9dcd0&is=67b88b50&hm=886aec5f14f288af5a94bc644023a7e4cd5a81d19cb0dc8cbc1b1467b28a7bfb&" alt="AAA" width="200" height="200">
+  </div>
 </div>
 
 <div align="center">
@@ -41,24 +61,24 @@
 
 <div align="center">
   <h2>🛠️ Technical Skills</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); transition: transform 0.2s; filter: grayscale(0%) brightness(100%);">
   </div>
 </div>
 
