@@ -157,5 +157,5 @@
 <div align="center">
   <h2>🎯 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=dragonboe&show_icons=true&theme=radical" alt="GitHub Stats">
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dragonboe)]
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dragonboe" alt="GitHub Streak">
 </div>
