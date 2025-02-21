@@ -24,9 +24,6 @@
   <p>
     When I'm not immersed in code, you can find me exploring new technologies, or simply enjoying the beauty of nature.
   </p>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://cdn.discordapp.com/attachments/1287942043997306983/1342500815583055915/WiVxwwnEbewZ.jpg?ex=67b9dcd0&is=67b88b50&hm=886aec5f14f288af5a94bc644023a7e4cd5a81d19cb0dc8cbc1b1467b28a7bfb&" alt="AAA" width="200" height="200">
-  </div>
 </div>
 
 <div align="center">
