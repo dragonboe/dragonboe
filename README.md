@@ -86,7 +86,6 @@
     <details open>
       <summary style="font-weight: bold; font-size: 1.25em;">🤖 ODIN AI</summary>
       <p>A 1.02-trillion-parameter AI system integrating cutting-edge code and cognitive capabilities.</p>
-      <img src="path-to-your-image.jpg" alt="ODIN AI Project Image" style="max-width: 100%; height: auto; border-radius: 15px;">
       <ul>
         <li>Natural language processing with near-human fluency.</li>
         <li>Scalable neural architectures for enterprise applications.</li>
@@ -96,7 +95,6 @@
     <details open>
       <summary style="font-weight: bold; font-size: 1.25em;">🎮 SYRUP</summary>
       <p>A high-performance gaming platform engineered for efficiency and elegance.</p>
-      <img src="path-to-your-image.jpg" alt="SYRUP Project Image" style="max-width: 100%; height: auto; border-radius: 15px;">
       <ul>
         <li>Support for multiple gaming environments.</li>
         <li>Optimized for speed and simplicity.</li>
