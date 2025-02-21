@@ -10,6 +10,36 @@
 </div>
 
 <div align="center">
+  <h2>🌐 Web3 Expertise</h2>
+  <p>I possess a deep understanding of blockchain technology, smart contract development, and decentralized applications (dApps). My experience spans building and deploying secure and efficient Web3 solutions, with a focus on best practices and cutting-edge technologies.</p>
+
+  <h3>Core Competencies:</h3>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Solidity-3C383D?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/Web3.js-673AB7?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/ethers.js-56463F?style=for-the-badge&logo=ethers.js&logoColor=white" alt="ethers.js" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/Truffle-4A302C?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/Hardhat-858585?style=for-the-badge&logo=hardhat&logoColor=white" alt="Hardhat" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/IPFS-F0F0F0?style=for-the-badge&logo=ipfs&logoColor=black" alt="IPFS" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" style="border-radius: 15px;">
+  </div>
+
+  <h3>Key Skills and Technologies:</h3>
+  <ul>
+    <li><b>Smart Contract Development:</b> Expertise in writing, testing, and deploying secure and optimized smart contracts using Solidity and other relevant languages.  Experience with gas optimization techniques and security best practices.</li>
+    <li><b>dApp Development:</b> Proficient in building user-friendly and interactive decentralized applications using Web3.js, ethers.js, and modern front-end frameworks.</li>
+    <li><b>Blockchain Integration:</b>  Skilled in integrating dApps with various blockchain networks, including Ethereum, and understanding the nuances of blockchain interactions.</li>
+    <li><b>Development Tools & Frameworks:</b>  Familiar with development tools like Truffle, Hardhat, and testing frameworks for efficient and reliable development.</li>
+    <li><b>Decentralized Storage:</b> Experience working with decentralized storage solutions like IPFS for storing and retrieving data in a decentralized manner.</li>
+    <li><b>Oracles and Data Feeds:</b>  Knowledge of integrating oracles like Chainlink to bring external data into smart contracts, enabling complex functionalities.</li>
+    <li><b>Backend Development:</b>  Experience with backend technologies and databases, including GraphQL, to support the development of robust and scalable dApps.</li>
+    <li><b>Security Best Practices:</b>  Deep understanding of Web3 security vulnerabilities and best practices to ensure the security of smart contracts and dApps.</li>
+  </ul>
+</div>
+
+<div align="center">
   <h2>🛠️ Technical Skills</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
