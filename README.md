@@ -94,12 +94,12 @@
     </details>
     <details open>
       <summary style="font-weight: bold; font-size: 1.25em;">🎮 SYRUP</summary>
-      <p>A high-performance gaming platform engineered for efficiency and elegance.</p>
+      <p>A high-performance cheating client engineered for efficiency and elegance.</p>
       <ul>
         <li>Support for multiple gaming environments.</li>
         <li>Optimized for speed and simplicity.</li>
         <li>Cross-platform compatibility.</li>
-        <li>Specialized features tailored to individual games.</li>
+        <li>Multi-Game support, Including popular games too.</li>
       </ul>
     </details>
   </div>
