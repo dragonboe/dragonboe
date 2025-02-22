@@ -200,9 +200,3 @@
   <p>"Innovation is my commitment to shaping a better tomorrow."</p>
   <p>— Marla, February 20, 2025</p>
 </div>
-
-<div align="center">
-  <h2>🎯 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=dragonboe&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dragonboe" alt="GitHub Streak">
-</div>
