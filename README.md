@@ -1,12 +1,14 @@
-[Discord (ID: ciuqe)](https://discordapp.com/users/1076409490682945566) | [Telegram](https://t.me/kittywp)
+<!-- GitHub Profile README -->
 
-### Hey,
+Hi, I'm **emy** :)
 
-I'm emy! I enjoy writing code, and exploring and learning about new technologies.
+### Currently working with
+<img src="https://skillicons.dev/icons?i=nginx,docker,ts,rust,cs,c,sass,git,aws,react,bash,bun,kotlin,tauri,vscode,postgres,php,python,vite,gradle,linux,neovim,md,obsidian&perline=8" alt="Tech Stack" />
 
-#### Stuff I'm currently using:
-[![My Skills](https://skillicons.dev/icons?i=nginx,docker,ts,rust,cs,c,sass,git,aws,react,bash,bun,kotlin,tauri,vscode,postgres,php,py,vite,gradle,linux,neovim,md,obsidian&perline=8)](https://skillicons.dev)
+### My Contacts - use PGP if you're contacting me through discord or telegram for business.
+- **Discord**: [ciuqe](https://discordapp.com/users/1076409490682945566)
+- **Telegram**: [@kittywp](https://t.me/kittywp)
+- **Threema**: 5AVDS52W
+- **Jami**: 0m2
 
-#### Thanks for checking out my profile, and have a nice day.
-
-<img src="https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg" alt="Profile Views" style="border-radius: 15px;">
+<img src="https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg" alt="Profile Views" style="border-radius: 12px; margin-top: 1rem;">
