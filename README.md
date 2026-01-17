@@ -13,6 +13,8 @@ Hi, I'm **emy** · building fast & reliable things
 - **Threema** → 5AVDS52W
 - **Jami** → 0m2
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dragonboe&label=Profile%20views&color=5865F2&style=flat" alt="Profile views" />
+<div align="center" style="margin: 2rem 0;">
+  <img src="https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg" 
+       alt="Profile views: day / week / month / total" 
+       style="border-radius: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); max-width: 100%; height: auto;" />
 </div>
