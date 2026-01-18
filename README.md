@@ -2,11 +2,6 @@
 
 Hi, I'm **emy** · building fast & reliable things
 
-### Currently working with
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nginx,docker,ts,rust,cs,c,sass,git,aws,react,bash,bun,kotlin,tauri,vscode,postgres,php,python,vite,gradle,linux,neovim,md,obsidian&perline=9" alt="Tech Stack" width="520" />
-</div>
-
 ### Reach out to me (PGP preferred for business / Discord / Telegram)
 - **Discord** → [ciuqe](https://discord.com/users/1076409490682945566)
 - **Telegram** → [@kittywp](https://t.me/kittywp)
