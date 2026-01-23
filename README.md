@@ -56,18 +56,7 @@ Full portfolio shared selectively under NDA/research agreements.
 
 ---
 
-### 📊 Activity & Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dragonboe&theme=dracula&hide_border=true&border_radius=8" height="160" alt="Contribution Streak"/>
-  <img src="./profile/stats.svg" height="160" alt="GitHub Stats"/>
-  <img src="./profile/top-langs.svg" height="160" alt="Top Languages"/>
-</div>
-
-
----
-
-### 📡 Contact (Encrypted Preferred)
+### 📡 Contact Information
 Use PGP for anything sensitive.
 
 <div align="center">
