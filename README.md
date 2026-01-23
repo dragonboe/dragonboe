@@ -1,105 +1,85 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Emy&fontSize=60&fontColor=00ffea&fontAlignY=35&animation=twinkling&desc=Kernel · Exploit Dev · Cognitive Systems&descAlignY=55&descAlign=62" alt="header" />
-  
-  <br/>
-  
-  **Kernel Engineer** · **Offensive Security Researcher** · **Polymath**  
-  <sup>ring-0 ⋅ memory corruption ⋅ symbolic & neurosymbolic architectures</sup>
-  
-  <br/>
-  
-  <a href="https://discord.com/users/1076409490682945566">
-    <img src="https://img.shields.io/badge/Discord-ciuqe-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=111111" alt="Discord">
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://api.visitorbadge.io/api/visitors?path=your-github-username.your-github-username&label=profile%20views&labelColor=111111&color=00ffea&style=flat&pretty=true" alt="views"/>
+  # Emy
+
+  ### Kernel Engineer · Offensive Security Researcher · Polymath
+
+  <p><i>Low-level systems · Exploit development · Cognitive architectures</i></p>
+
+  <a href="#contact"><img src="https://img.shields.io/badge/PGP-Verified-success?style=for-the-badge&logo=protonmail" alt="PGP"></a>
+  <a href="https://discord.com/users/1076409490682945566"><img src="https://img.shields.io/badge/Discord-ciuqe-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </div>
 
 ---
 
-### 🎯 Domain
-
-Deep intersection of **low-level systems**, **offensive security**, and **computational cognition**.
-
-- Kernel & hypervisor development  
-- Memory corruption & modern mitigations bypass  
-- DMA / PCIe / firmware exploitation vectors  
-- Automotive & embedded protocol reversing (CAN-FD, SOME/IP, DoIP…)  
-- Neurosymbolic & large-scale symbolic reasoning engines  
-
-**Strict white-hat only** - red-team tooling, defensive research, academic / industry collaboration. No gray/black activity.
+### :shield: Focus & Disclaimer
+Intersection of kernel development, offensive security, and behavioral modeling.  
+**Strictly white-hat**: ethical research, red team simulations, defensive hardening. No unauthorized access or black-hat activity.
 
 ---
 
-### 🛠️ Technical Surface
+### :microscope: Core Competencies
+- Ring-0 development & kernel internals  
+- Exploit research (user/kernel mode)  
+- Evasion & breaching defenses  
+- Direct Memory Access (DMA) attacks  
+- CAN bus & automotive protocol reversing  
+- Symbolic reasoning in large models  
 
-**Technical Surface**
-
-**Technical Surface**
+**Languages & Tools**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Architectures-x86__64%20·%20arm64%20·%20riscv64-111111?style=flat-square&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Systems-C%20·%20C++23%20·%20Rust%20·%20Zig%20·%20Nim-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Low--level-Assembly%20(x86__64%2Farm64)%20·%20Intrinsics-red?style=flat-square&logo=gnu&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Scripting-Python%20·%20LuaJIT%20·%20Go-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Glue-TypeScript%20·%20C%23%20.NET%209-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Assembly-red?style=flat-square&logo=intel" />
+  <img src="https://img.shields.io/badge/C-Embedded-A8B9CC?style=flat-square&logo=c" />
+  <img src="https://img.shields.io/badge/C++-23-00599C?style=flat-square&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust" />
+  <img src="https://img.shields.io/badge/Zig-Systems-F7A41D?style=flat-square&logo=zig&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-ES2025-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-JIT-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-.NET%208-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nim-3775A9?style=flat-square&logo=nim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-010101?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kernel%20Internals-Ring%200-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/x86__64%20ASM-Deep%20RE-red?style=flat-square" />
 </div>
 
-**Core domains**  
-• Ring-0 / Ring-−1 engineering  
-• Kernel/userland exploit primitives & chaining  
-• EDR / HVCI / kernel mitigations evasion research  
-• Direct memory access tooling (PCILeech family style)  
-• Symbolic execution & solver-backed binary analysis  
-• LLM-scale symbolic & hybrid reasoning systems
+---
+
+### :trophy: Verified Credentials
+- **Offensive Security**: OSCP, OSWE, OSEP, OSCE³ / OSEE, GXPN  
+- **Red Team**: CRTOP (ZeroPoint), MRT (MCSI)  
+- **Other**: PMP, BCBA-D  
 
 ---
 
-### 📜 Verified lineage (publicly claimable)
+### :rocket: Select Projects / Research
+(Private repos dominate due to sensitivity; public ones below)
 
-Offensive Security
-• OSCP · OSWE · OSEP · OSCE³ · OSEE · GXPN
+- **Tychon AI** - Custom 754B-scale symbolic reasoning model (inference optimizations)  
+- **Kernel DMA tooling** - Ring-0 physical memory manipulation research  
+- **Automotive security** - CAN-bus vulnerability analysis & tooling  
 
-Red Team / Purple
-• CRTOP (ZeroPoint) · MRT (MCSI)
-
-Adjacent
-• PMP · BCBA-D
+Full portfolio shared selectively under NDA/research agreements.
 
 ---
 
-### 🔭 Select Work (public / semi-public)
+### :satellite: Contact Information
 
-Most serious material lives in private / research-only orgs due to sensitivity / IP / classification.
+<div align="center">
+  • <strong>Discord</strong> - ciuqe <small>(general inquiries)</small><br>
+  • <strong>Telegram</strong> - @kittywp <small>(slow response)</small><br>
+  • <strong>Threema</strong> - 5AVDS52W <small>(high security)</small><br>
+  • <strong>Jami</strong> - 0m2 <small>(peer-to-peer)</small>
+</div>
 
-Public / teaser surface:
-
-- **Tychon** - custom ~754B-scale neurosymbolic reasoning backbone (inference & training-time optimizations)  
-- **Kernel DMA suite** - physical memory manipulation primitives (research / PoC quality)  
-- **Automotive attack surface** - modern CAN-FD / Ethernet tooling & vuln patterns  
-- Various kernel hardening bypass techniques (talks / write-ups under selective embargo)
-
-Full portfolio / code access via mutual NDA / research agreement only.
-
----
-
-### 🔒 Secure Contact Surface
-
-Priority order (most → least secure):
-
-- **Threema** - 5AVDS52W (preferred high-security)  
-- **Jami** - 0m2 (decentralized P2P)  
-- **PGP-encrypted email** - mandatory for attachments / long messages  
-- **Discord** - ciuqe (quick / general)  
-- **Telegram** - @kittywp (lowest priority)
-
-**All sensitive communication must use end-to-end encryption + forward secrecy where possible.**
+<div align="center">
+  <small>Use PGP for anything sensitive. Handle via encrypted channels only.</small>
+</div>
 
 ---
 
 <div align="center">
-  <sup>last updated · January 2026</sup>
+  <img src="https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg" alt="Profile views" style="border-radius:8px;"/>
 </div>
