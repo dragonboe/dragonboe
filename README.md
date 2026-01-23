@@ -78,6 +78,8 @@ Full portfolio shared selectively under NDA/research agreements.
   <small>Use PGP for anything sensitive. Handle via encrypted channels only.</small>
 </div>
 
+---
+
 <div align="center">
   <img src="https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg" alt="Profile views" style="border-radius:8px;"/>
 </div>
