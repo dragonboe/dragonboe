@@ -25,7 +25,7 @@ Intersection of kernel development, offensive security, and behavioral modeling.
 - CAN bus & automotive protocol reversing  
 - Symbolic reasoning in large models  
 
-**Languages & Tools** (dark theme compatible):
+**Languages & Tools**
 
 <div align="center">
 
