@@ -28,12 +28,22 @@ Intersection of kernel development, offensive security, and behavioral modeling.
 **Languages & Tools** (dark theme compatible):
 
 <div align="center">
+
   <img src="https://img.shields.io/badge/Assembly-red?style=flat-square&logo=intel" />
   <img src="https://img.shields.io/badge/C++-23-00599C?style=flat-square&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/C-Embedded-A8B9CC?style=flat-square&logo=c" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust" /> <!-- added realistic one -->
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust" />
   <img src="https://img.shields.io/badge/Reverse%20Engineering-010101?style=flat-square" />
+  
+  <img src="https://img.shields.io/badge/Zig-Systems-F7A41D?style=flat-square&logo=zig&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADA-00A1D6?style=flat-square&logo=ada&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nim-3775A9?style=flat-square&logo=nim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brainfuck-FFFFFF?style=flat-square&logo=brainfuck&logoColor=black" />
+  <img src="https://img.shields.io/badge/Malbolge-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/x86__64%20ASM-Deep%20RE-red?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Kernel%20Internals-Ring%200-black?style=flat-square" /> 
 </div>
 
 ---
