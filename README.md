@@ -71,7 +71,10 @@ Full portfolio shared selectively under NDA/research agreements.
   • <strong>Discord</strong> - ciuqe <small>(general inquiries)</small><br>
   • <strong>Telegram</strong> - @kittywp <small>(slow response)</small><br>
   • <strong>Threema</strong> - 5AVDS52W <small>(high security)</small><br>
-  • <strong>Jami</strong> - 0m2 <small>(peer-to-peer)</small>
+  • <strong>Jami</strong> - 0m2 <small>(peer-to-peer)</small><br>
+  • <strong>Signal<strong> - v44.04<small><br>
+  • <strong>Fluxer<strong> - 44#4813<small><br>
+  • <strong>Stoat<strong> - 44#0089<small>
 </div>
 
 <div align="center">
